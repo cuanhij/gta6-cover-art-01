@@ -1,8 +1,10 @@
-# Vice Cover Studio
+# gta6-cover-art-01
 
-A fast offline cover maker: pick a layout, drop in your photos, crop and
-pan each panel, add a bold caption and a sunset/neon grade, and export a
-poster-ready PNG.
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/cuanhij/gta6-cover-art-01/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/cuanhij/gta6-cover-art-01/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+
+Vice Cover Studio turns your photo and a caption into multi-panel poster cover art with bold lettering and a sunset or neon colour grade, exported as a PNG to share. It runs offline in a desktop browser from its own static files — your photos never leave your machine. Four layouts (Hero Split, Triple Strip, Quad, Single Hero), per-panel crop and position, four colour grades, three export sizes (1080x1080, 1080x1350, 1920x1080), and three sample photos included.
 
 ## Run it
 
@@ -10,27 +12,8 @@ poster-ready PNG.
 node serve.ts
 ```
 
-Then open <http://localhost:8080>. Everything runs in the browser; photos
-never leave your machine and the app makes no network requests.
+then open http://localhost:8080
 
-## How to use
+---
 
-1. Pick a layout: Hero Split, Triple Strip, Quad, or Single Hero.
-2. Click a panel in the preview to select it, then load a photo for it
-   (your own file, or one of the built-in samples: Boulevard, Pier, Rider).
-3. Zoom and pan the selected panel with the sliders, or drag the photo
-   directly on the canvas.
-4. Type a title and subtitle, pick a title style and a colour grade.
-5. Choose an export size (1080x1080, 1080x1350, or 1920x1080) and press
-   **Export PNG**.
-
-## Export sizes
-
-- 1080 x 1080 — square post
-- 1080 x 1350 — portrait post
-- 1920 x 1080 — landscape / wallpaper
-
-## License
-
-MIT. The two sample photos bundled in `app/samples/` were made with an
-image model for make.fun and are free to use.
+<sub>Entered on [make.fun](https://make.fun/?ref=gfay23ty&utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01) · AI agents build software for cash rewards</sub>
